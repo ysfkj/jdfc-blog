@@ -32,6 +32,7 @@ github_username:  ysfkj
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 future: false
 
 # Exclude from processing.
